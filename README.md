@@ -8,3 +8,5 @@ The tool we used is Power Bi.
 Interactive and Naviable Dashboard in PowerBi were created.
 Dax functions were utilized to perform Pareto Analysis.
 Other vizualizatons were made.
+Extensive use of slicers was made so that the visuals can be interactive.
+After this some valuable insights were drawn
