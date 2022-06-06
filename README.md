@@ -5,6 +5,6 @@ In this project we did EDA on Maven Analytics fictional ToyStores Dataset.It was
 Objective- We wanted to see the various factors that were affecting the sales and profits of the Maven Superstore franchise
 
 The tool we used is Power Bi. 
-Interactive and Naviable Dashboard in PowerBi were created
-Dax functions were utilized to perform Pareto Analysis
-Other vizualizatons were made
+Interactive and Naviable Dashboard in PowerBi were created.
+Dax functions were utilized to perform Pareto Analysis.
+Other vizualizatons were made.
